@@ -1,2 +1,1 @@
-# TestReadmeSizeApp
-A test application to explore the limits of README file size on GitHub.
+This repository, TestReadmeSizeApp, is designed to test the limits of a README file's size on GitHub. The objective is to explore how large the README file can become when continually updated with new information.\n\nOur approach will be to add information in increments, based on the schema and GPT instructions for handling actions. This will include content related to Flutter development, code snippets, and other relevant information related to this field.\n\nStarting with a basic structure, we will continue to expand this document with more detailed content.
